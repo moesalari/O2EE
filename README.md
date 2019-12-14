@@ -1,4 +1,4 @@
-# O2EE
+# O2E Brand
 Data Engineering Assignment 
 
 Part 1: Data Capture<br />
