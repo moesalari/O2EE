@@ -33,9 +33,9 @@ Part 1: Data Capture<br />
  1-	PostgreSQL <br />
  
  **Solution <br />**
- 1- Come up with a temparary table to keep employeeid and most recent movein date
- 2- Join tables 
- 3- Insert to final table 
+ 1- Come up with a temparary table to keep employeeid and most recent movein date<br />
+ 2- Join tables <br />
+ 3- Insert to final table <br />
  
  **Test Scenarios <br />**
 Story: Moe, Omid and Ryan are in the employees table. 
