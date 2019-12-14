@@ -20,6 +20,7 @@ Part 1: Data Capture<br />
   1-	Wrong URL<br />
   2-	Out of index<br />
   3-	Data verification: Comparing top 5 result with actual data in the website.  Please see ~Capture Data\compare.xlsx<br />
+  4-  Comparing created dataset with article entree<br />
   
   
 **To Improve<br />**
@@ -33,14 +34,14 @@ Part 1: Data Capture<br />
  1-	PostgreSQL <br />
  
  **Solution <br />**
- 1- Come up with a temparary table to keep employeeid and most recent movein date<br />
+ 1- Come up with a temporary table to keep employeeid and most recent move in date<br />
  2- Join tables <br />
  3- Insert to final table <br />
  
  **Test Scenarios <br />**
 Story: Moe, Omid and Ryan are in the employees table. 
 Moe has three addresses, Omid has one and Ryan has no address.
-Final Result must show all three employees with their recent movein date and recent address,
+Final Result must show all three employees with their recent move in date and recent address,
 even if there is no address information for them.
 
 
