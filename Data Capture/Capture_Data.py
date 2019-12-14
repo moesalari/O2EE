@@ -47,7 +47,7 @@ def dataChapture (url,N):
 
 
 # normal scenario
-N = 5 
+N = 100 
 url = "http://export.arxiv.org/rss/cs"
 dataChapture (url,N)
 
